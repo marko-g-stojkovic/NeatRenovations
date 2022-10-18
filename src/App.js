@@ -1,9 +1,13 @@
 
 
+import NavigationB from "./containers/NavigationB";
+
 function App() {
   return (
+    
     <div>
-      Welcome
+      <NavigationB/>
+      <div>BODY</div>
     </div>
   );
 }
